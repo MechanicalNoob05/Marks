@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "dd50036c77de5f40",
+        "id": "43aaca51fb791d9a",
         "type": "tabs",
         "children": [
           {
-            "id": "b5aa31e7ca01b716",
+            "id": "672d498280f37c74",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Utilities.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Utilities/Utilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Utilities/Utilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,14 +125,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Utilities/Utilities.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -137,10 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5aa31e7ca01b716",
+  "active": "672d498280f37c74",
   "lastOpenFiles": [
+    "Utilities/Untitled.md",
+    "Utilities/Utilities.md",
     "README.md",
     "Server/Go/Go server with DB.md",
+    "Utilities",
     "Server/Go/Go server without DB.md",
     "Server/Server.md",
     "Server/Node/Node server with DB.md",
