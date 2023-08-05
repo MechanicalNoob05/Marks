@@ -1,6 +1,15 @@
 ## Project Overview
 This Project Aims to create a raspberry pi program that can control a servo motor for a specified period of time. The scope of the project is to create a working test model that can be controlled via remote access to turn the servo motor.
 
+## Resources used
+- Hardware 
+	- Raspberry Pi 3
+	- SD card (Raspbian os installed)
+	- Servo motor
+	- Jumper cables(female to male)
+- Software 
+	- Python
+
 ## How to....
 ### Basic Logic formation
 I have to write a program that will move the servo arm from on location to another then hold for 5 sec the return to original position. So I created a function that will do the same using basic library.
