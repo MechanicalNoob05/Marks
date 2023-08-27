@@ -14,4 +14,13 @@ save(){
 }
 ```
 
-2) Neo-vim Setup
+2) Fuzzy find directories
+```bash
+bind '"\C-f":"cd_with_fzf\n"'
+
+cd_with_fzf(){
+  cd $HOME && cd "$(fd -t d | fzf --preview="tree -L {}" --bind="space:toggle-preview" --preview-window=:hidden)" && echo "$PWD" && tree -L 2
+}
+```
+
+3) 
