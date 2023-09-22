@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e9aadd77bc876fbf",
+        "id": "37c66458d7eefbe0",
         "type": "tabs",
         "children": [
           {
-            "id": "690366e08de7d02e",
+            "id": "11b1627b46e0750d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/Legal System.canvas",
-                "viewState": {
-                  "x": -1061.3439460077539,
-                  "y": -1142.440802571249,
-                  "zoom": -0.9000000000000002
-                }
+                "file": "Flutter/Lawtrix/Process.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas/Legal System.canvas",
+                "file": "Flutter/Lawtrix/Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvas/Legal System.canvas",
+                "file": "Flutter/Lawtrix/Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas/Legal System.canvas"
+                "file": "Flutter/Lawtrix/Process.md"
+              }
+            }
+          },
+          {
+            "id": "05dd6243e33c6c6a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -149,10 +157,13 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "690366e08de7d02e",
+  "active": "11b1627b46e0750d",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Canvas/Legal System.canvas",
+    "Untitled.canvas",
+    "Flutter/Lawtrix/Process.md",
+    "Flutter/Flutter.md",
+    "Flutter/Lawtrix",
     "React/React.md",
     "Canvas",
     "Utilities/Utilities.md",
@@ -177,8 +188,6 @@
     "Server/Node/Node server with DB.md",
     "Server/Node/Node server without DB.md",
     "Server/Go",
-    "Server/Node",
-    "React",
-    "Flutter/Flutter.md"
+    "Server/Node"
   ]
 }
